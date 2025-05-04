@@ -24,8 +24,6 @@ Different terrain types have different traversal costs:
 
 ## Getting Started
 
-### Prerequisites
-- Java Development Kit (JDK) 8 or higher
 
 ### Running the Application
 
